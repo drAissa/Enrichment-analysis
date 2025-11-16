@@ -31,7 +31,7 @@ R tutorial: “Easy GSEA in R with fgsea()” — step-by-step with code.
 Biostat Squid
 
 Galaxy Training: “RNA-seq genes to pathways” — for a workflow in Galaxy. 
-Galaxy Training Network
+[GO Enrichment Analysis Tutorial](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/goenrichment/tutorial.html) 
 
 Video tutorial: “How to perform GSEA – a tutorial on RNA-seq” on YouTube.
 
