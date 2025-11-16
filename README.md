@@ -6,7 +6,7 @@ Here are some targeted resources you can tap into. I’ve categorized by (A) Boo
 ## A. Books / Reference Chapters
 
 Biomedical Knowledge Mining: Methods and Protocols (via yulab-SMU “Biomedical Knowledge Mining” online book) — includes a chapter (and R code) on using clusterProfiler / enrichplot / GOSemSim for enrichment. Very hands-on. 
-YuLab@SMU
+[YuLab Platforms](https://www.yulab.org/platforms/)
 
 Bioconductor Case Studies: Use R! (Gentleman R, Morgan M, Huber W) — Chapter “Gene Set Enrichment Analysis” covers fundamentals and tools via R. 
 SpringerLink
