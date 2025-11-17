@@ -39,4 +39,4 @@ Lien vidéo YouTube
 ## C. Courses
 
 While not purely dedicated to enrichment analysis, the book The Biostar Handbook (and associated online course) includes sections on RNA-seq and downstream pathway analysis. 
-Biostar Handbook
+[Biostar Handbook](https://www.biostarhandbook.com/)
